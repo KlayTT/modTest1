@@ -1,20 +1,12 @@
-// export function setup(ctx) {
-//     ctx.patch(Skill, 'addXP').before(function(amount, masteryAction) {
-//       return [amount * 2, masteryAction];
-//     });
-// }
-
 export function setup(ctx) {
-    ctx.settings.section('General').add({
-      type: 'number',
-      name: 'xp-multiplier',
-      label: 'XP Multiplier',
-      hint: 'Multiply all XP gains by this amount',
-      default: 1
+    ctx.settings.section('View Player').add({
+      /* Data to add player view screen */
     });
   
-    ctx.patch(Skill, 'addXP').before(function(amount, masteryAction) {
-      const xpMultiplier = ctx.settings.section('General').get('xp-multiplier');
-      return [amount * xpMultiplier, masteryAction];
+    ctx.patch(Player, 'viewPlayer').before(function(view, masteryAction) {
+      /* func for return */
+      return /* Something */;
     });
 }
+
+// NOTES use masteryAction in return when viewing player model
