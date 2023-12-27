@@ -10,3 +10,4 @@ export function setup(ctx) {
 }
 
 // NOTES use masteryAction in return when viewing player model
+// NOTES use Async to show multiple Views at one (Bank Items and Shop Items)
