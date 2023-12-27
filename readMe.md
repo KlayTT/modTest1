@@ -3,7 +3,7 @@ Welcome to the Player View Github, Find all information below.
 
 ## Discord
 Feel free to reach out to me on Discord for more information --- > Discord UserName: klaa
-![Discord Profile Image](Dcprofile.png)
+![Discord Profile Image](/melvor-show-character/src/img/Dcprofile.png)
 
 ## Steps
 View the MileStone and Issue Tracker [Here](https://github.com/KlayTT/modTest1/milestones).
