@@ -20,5 +20,6 @@ Version 1 of DataDiagram can be found [Here](https://dbdiagram.io/d/PlayerView_V
 
 ## Credits
 
-1. Package.json  | Cherry Mace
-2. Bioler Plate  | Cherry Mace
+1. Package.json  | [Cherry Mace](https://github.com/CherryMace/)
+2. Bioler Plate  | [Cherry Mace](https://github.com/CherryMace/)
+3. Based some Code off Show Items and Sources in Setup | [SaulLawliet](https://github.com/SaulLawliet/)
