@@ -1,6 +1,13 @@
 # Start_V1
 Welcome to the Player View Github, Find all information below. 
 
+## User Stories
+1. User may click the "Chacter" tab to view their Chacter Model, and view the item selection screen.
+1. User may click the "View my items" tab to see the Bank or Shop items Screen.
+2. User may click the 0either "Bank Items" or "Shop Items" to pull up their respective views.
+3. User may equip the Shop items or bank items by selecting the "Equip" option to equip the current weapon.
+
+
 ## Discord
 Feel free to reach out to me on Discord for more information --- > Discord UserName: klaa
 ![Discord Profile Image](/melvor-show-character/src/img/CDImg.png)
