@@ -1,3 +1,30 @@
 {
-    "$schema": "https://melvoridle.com/assets/schema/gameData.json"
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+
+    "modData": {
+        "showItems": [
+            {
+                "shopPurchases": {
+                    "description": "ShopPurchases defined by this data package",
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/$defs/ShopPurchaseData"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                  }
+            },
+            {
+                "items": {
+                    "description": "Items defined by this data package",
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/$defs/AnyItemData"
+                    },
+                    "minItems": 1,
+                    "uniqueItems": true
+                  }
+            }
+        ]
+    }
 }  
