@@ -1,4 +1,4 @@
-*IMportant* Project is Currently Delayed indefinately, currently looking for another software job and creating a portfolio website to work on my react.js skills. 
+*IMPORTANT -* Project is Currently Delayed indefinately, currently looking for another software job and creating a portfolio website to work on my react.js skills. 
 
 # Start_V1
 Welcome to the Player View Github, Find all information below. 
